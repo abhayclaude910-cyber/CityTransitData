@@ -1,0 +1,17 @@
+{
+ "slug": "vaduz",
+ "agency": "Liechtenstein public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Vaduz",
+ "routes": 285,
+ "stops": 1042,
+ "bb": [
+  46.991915,
+  47.289976,
+  9.371133,
+  9.669432
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "LI",
+ "city": "Liechtenstein"
+}

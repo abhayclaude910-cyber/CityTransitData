@@ -1,0 +1,17 @@
+{
+ "slug": "panama-city",
+ "agency": "Panama City public transport (OpenStreetMap, approximate times)",
+ "tz": "America/Panama",
+ "routes": 34,
+ "stops": 436,
+ "bb": [
+  8.910734,
+  9.103734,
+  -79.625392,
+  -79.370044
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "PA",
+ "city": "Panama City"
+}

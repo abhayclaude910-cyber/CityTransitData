@@ -1,0 +1,17 @@
+{
+ "slug": "ouagadougou",
+ "agency": "Ouagadougou public transport (OpenStreetMap, approximate times)",
+ "tz": "Africa/Ouagadougou",
+ "routes": 59,
+ "stops": 666,
+ "bb": [
+  12.227659,
+  12.517247,
+  -1.638559,
+  -1.375061
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "BF",
+ "city": "Ouagadougou"
+}

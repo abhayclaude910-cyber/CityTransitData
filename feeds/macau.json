@@ -1,0 +1,17 @@
+{
+ "slug": "macau",
+ "agency": "Macau public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Macau",
+ "routes": 368,
+ "stops": 1963,
+ "bb": [
+  22.050722,
+  22.349984,
+  113.400051,
+  113.59926
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "MO",
+ "city": "Macau"
+}

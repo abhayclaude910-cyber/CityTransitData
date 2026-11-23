@@ -1,0 +1,17 @@
+{
+ "slug": "saint-petersburg",
+ "agency": "Saint Petersburg public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Moscow",
+ "routes": 1011,
+ "stops": 4494,
+ "bb": [
+  59.780509,
+  60.079883,
+  30.150271,
+  30.449928
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "RU",
+ "city": "Saint Petersburg"
+}

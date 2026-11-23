@@ -1,0 +1,17 @@
+{
+ "slug": "malmo",
+ "agency": "Malmö public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Stockholm",
+ "routes": 126,
+ "stops": 898,
+ "bb": [
+  55.45149,
+  55.749324,
+  12.900564,
+  13.149538
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "SE",
+ "city": "Malmö"
+}

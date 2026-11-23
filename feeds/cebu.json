@@ -1,0 +1,17 @@
+{
+ "slug": "cebu",
+ "agency": "Cebu public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Manila",
+ "routes": 89,
+ "stops": 593,
+ "bb": [
+  10.208691,
+  10.401396,
+  123.758741,
+  123.999745
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "PH",
+ "city": "Cebu"
+}

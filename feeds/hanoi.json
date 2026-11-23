@@ -1,0 +1,17 @@
+{
+ "slug": "hanoi",
+ "agency": "Hanoi public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Ho_Chi_Minh",
+ "routes": 344,
+ "stops": 2749,
+ "bb": [
+  20.880285,
+  21.179775,
+  105.700095,
+  105.999452
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "VN",
+ "city": "Hanoi"
+}

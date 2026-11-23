@@ -1,0 +1,17 @@
+{
+ "slug": "bandar-seri-begawan",
+ "agency": "Bandar Seri Begawan public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Brunei",
+ "routes": 7,
+ "stops": 10,
+ "bb": [
+  4.887839,
+  5.034253,
+  114.923198,
+  115.078322
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "BN",
+ "city": "Bandar Seri Begawan"
+}

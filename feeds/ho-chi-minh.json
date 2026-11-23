@@ -1,0 +1,17 @@
+{
+ "slug": "ho-chi-minh",
+ "agency": "Ho Chi Minh City public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Ho_Chi_Minh",
+ "routes": 272,
+ "stops": 4263,
+ "bb": [
+  10.631,
+  10.929744,
+  106.550146,
+  106.849837
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "VN",
+ "city": "Ho Chi Minh City"
+}

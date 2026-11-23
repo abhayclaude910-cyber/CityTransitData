@@ -1,0 +1,17 @@
+{
+ "slug": "taichung",
+ "agency": "Taichung public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Taipei",
+ "routes": 716,
+ "stops": 5924,
+ "bb": [
+  24.000086,
+  24.299991,
+  120.520189,
+  120.819995
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "TW",
+ "city": "Taichung"
+}

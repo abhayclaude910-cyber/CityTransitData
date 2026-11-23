@@ -1,0 +1,17 @@
+{
+ "slug": "antananarivo",
+ "agency": "Antananarivo public transport (OpenStreetMap, approximate times)",
+ "tz": "Indian/Antananarivo",
+ "routes": 101,
+ "stops": 848,
+ "bb": [
+  -18.988081,
+  -18.757041,
+  47.447234,
+  47.620128
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "MG",
+ "city": "Antananarivo"
+}

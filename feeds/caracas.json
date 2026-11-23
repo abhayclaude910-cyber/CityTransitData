@@ -1,0 +1,17 @@
+{
+ "slug": "caracas",
+ "agency": "Caracas public transport (OpenStreetMap, approximate times)",
+ "tz": "America/Caracas",
+ "routes": 63,
+ "stops": 620,
+ "bb": [
+  10.352328,
+  10.600189,
+  -67.039357,
+  -66.788218
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "VE",
+ "city": "Caracas"
+}

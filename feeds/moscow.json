@@ -1,0 +1,17 @@
+{
+ "slug": "moscow",
+ "agency": "Moscow public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Moscow",
+ "routes": 1870,
+ "stops": 8122,
+ "bb": [
+  55.600038,
+  55.899963,
+  37.450009,
+  37.749999
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "RU",
+ "city": "Moscow"
+}

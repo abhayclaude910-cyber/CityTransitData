@@ -1,0 +1,17 @@
+{
+ "slug": "noumea",
+ "agency": "Nouméa public transport (OpenStreetMap, approximate times)",
+ "tz": "Pacific/Noumea",
+ "routes": 36,
+ "stops": 750,
+ "bb": [
+  -22.307668,
+  -22.120094,
+  166.302665,
+  166.599604
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "NC",
+ "city": "Nouméa"
+}

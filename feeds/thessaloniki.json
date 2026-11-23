@@ -1,0 +1,17 @@
+{
+ "slug": "thessaloniki",
+ "agency": "Thessaloniki public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Athens",
+ "routes": 185,
+ "stops": 1960,
+ "bb": [
+  40.490049,
+  40.789763,
+  22.79171,
+  23.089873
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "GR",
+ "city": "Thessaloniki"
+}

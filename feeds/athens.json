@@ -1,0 +1,17 @@
+{
+ "slug": "athens",
+ "agency": "Athens public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Athens",
+ "routes": 451,
+ "stops": 8286,
+ "bb": [
+  37.830021,
+  38.129807,
+  23.580116,
+  23.879961
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "GR",
+ "city": "Athens"
+}

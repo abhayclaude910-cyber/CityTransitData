@@ -1,0 +1,17 @@
+{
+ "slug": "buenos-aires",
+ "agency": "Buenos Aires public transport (OpenStreetMap, approximate times)",
+ "tz": "America/Argentina/Buenos_Aires",
+ "routes": 1114,
+ "stops": 13162,
+ "bb": [
+  -34.749926,
+  -34.450006,
+  -58.599991,
+  -58.300071
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "AR",
+ "city": "Buenos Aires"
+}

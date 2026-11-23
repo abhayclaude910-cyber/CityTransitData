@@ -1,0 +1,17 @@
+{
+ "slug": "taipei",
+ "agency": "Taipei public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Taipei",
+ "routes": 1319,
+ "stops": 6744,
+ "bb": [
+  24.896475,
+  25.189986,
+  121.400136,
+  121.699935
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "TW",
+ "city": "Taipei"
+}

@@ -1,0 +1,410 @@
+{
+ "stockholm": {
+  "cc": "SE",
+  "name": "Stockholm",
+  "lat": 59.33,
+  "lon": 18.07,
+  "tz": "Europe/Stockholm",
+  "routes": 1148
+ },
+ "gothenburg": {
+  "cc": "SE",
+  "name": "Gothenburg",
+  "lat": 57.71,
+  "lon": 11.97,
+  "tz": "Europe/Stockholm",
+  "routes": 320
+ },
+ "malmo": {
+  "cc": "SE",
+  "name": "Malmö",
+  "lat": 55.6,
+  "lon": 13.0,
+  "tz": "Europe/Stockholm",
+  "routes": 158
+ },
+ "athens": {
+  "cc": "GR",
+  "name": "Athens",
+  "lat": 37.98,
+  "lon": 23.73,
+  "tz": "Europe/Athens",
+  "routes": 501
+ },
+ "thessaloniki": {
+  "cc": "GR",
+  "name": "Thessaloniki",
+  "lat": 40.64,
+  "lon": 22.94,
+  "tz": "Europe/Athens",
+  "routes": 214
+ },
+ "malta": {
+  "cc": "MT",
+  "name": "Malta",
+  "lat": 35.95,
+  "lon": 14.4,
+  "tz": "Europe/Malta",
+  "routes": 306
+ },
+ "doha": {
+  "cc": "QA",
+  "name": "Doha",
+  "lat": 25.29,
+  "lon": 51.53,
+  "tz": "Asia/Qatar",
+  "routes": 24
+ },
+ "riyadh": {
+  "cc": "SA",
+  "name": "Riyadh",
+  "lat": 24.7,
+  "lon": 46.7,
+  "tz": "Asia/Riyadh",
+  "routes": 25
+ },
+ "jeddah": {
+  "cc": "SA",
+  "name": "Jeddah",
+  "lat": 21.5,
+  "lon": 39.2,
+  "tz": "Asia/Riyadh",
+  "routes": 1
+ },
+ "hanoi": {
+  "cc": "VN",
+  "name": "Hanoi",
+  "lat": 21.03,
+  "lon": 105.85,
+  "tz": "Asia/Ho_Chi_Minh",
+  "routes": 374
+ },
+ "ho-chi-minh": {
+  "cc": "VN",
+  "name": "Ho Chi Minh City",
+  "lat": 10.78,
+  "lon": 106.7,
+  "tz": "Asia/Ho_Chi_Minh",
+  "routes": 289
+ },
+ "da-nang": {
+  "cc": "VN",
+  "name": "Da Nang",
+  "lat": 16.05,
+  "lon": 108.2,
+  "tz": "Asia/Ho_Chi_Minh",
+  "routes": 39
+ },
+ "manila": {
+  "cc": "PH",
+  "name": "Manila",
+  "lat": 14.6,
+  "lon": 121.0,
+  "tz": "Asia/Manila",
+  "routes": 767
+ },
+ "cebu": {
+  "cc": "PH",
+  "name": "Cebu",
+  "lat": 10.3,
+  "lon": 123.9,
+  "tz": "Asia/Manila",
+  "routes": 131
+ },
+ "taipei": {
+  "cc": "TW",
+  "name": "Taipei",
+  "lat": 25.04,
+  "lon": 121.55,
+  "tz": "Asia/Taipei",
+  "routes": 1439
+ },
+ "kaohsiung": {
+  "cc": "TW",
+  "name": "Kaohsiung",
+  "lat": 22.63,
+  "lon": 120.3,
+  "tz": "Asia/Taipei",
+  "routes": 569
+ },
+ "taichung": {
+  "cc": "TW",
+  "name": "Taichung",
+  "lat": 24.15,
+  "lon": 120.67,
+  "tz": "Asia/Taipei",
+  "routes": 919
+ },
+ "buenos-aires": {
+  "cc": "AR",
+  "name": "Buenos Aires",
+  "lat": -34.6,
+  "lon": -58.45,
+  "tz": "America/Argentina/Buenos_Aires",
+  "routes": 1175
+ },
+ "cordoba": {
+  "cc": "AR",
+  "name": "Córdoba",
+  "lat": -31.4,
+  "lon": -64.2,
+  "tz": "America/Argentina/Cordoba",
+  "routes": 307
+ },
+ "moscow": {
+  "cc": "RU",
+  "name": "Moscow",
+  "lat": 55.75,
+  "lon": 37.6,
+  "tz": "Europe/Moscow",
+  "routes": 2514
+ },
+ "saint-petersburg": {
+  "cc": "RU",
+  "name": "Saint Petersburg",
+  "lat": 59.93,
+  "lon": 30.3,
+  "tz": "Europe/Moscow",
+  "routes": 1339
+ },
+ "nairobi": {
+  "cc": "KE",
+  "name": "Nairobi",
+  "lat": -1.29,
+  "lon": 36.82,
+  "tz": "Africa/Nairobi",
+  "routes": 282
+ },
+ "santo-domingo": {
+  "cc": "DO",
+  "name": "Santo Domingo",
+  "lat": 18.48,
+  "lon": -69.9,
+  "tz": "America/Santo_Domingo",
+  "routes": 10
+ },
+ "guatemala-city": {
+  "cc": "GT",
+  "name": "Guatemala City",
+  "lat": 14.63,
+  "lon": -90.5,
+  "tz": "America/Guatemala",
+  "routes": 35
+ },
+ "san-salvador": {
+  "cc": "SV",
+  "name": "San Salvador",
+  "lat": 13.69,
+  "lon": -89.19,
+  "tz": "America/El_Salvador",
+  "routes": 8
+ },
+ "panama-city": {
+  "cc": "PA",
+  "name": "Panama City",
+  "lat": 8.98,
+  "lon": -79.52,
+  "tz": "America/Panama",
+  "routes": 70
+ },
+ "asuncion": {
+  "cc": "PY",
+  "name": "Asunción",
+  "lat": -25.28,
+  "lon": -57.63,
+  "tz": "America/Asuncion",
+  "routes": 127
+ },
+ "caracas": {
+  "cc": "VE",
+  "name": "Caracas",
+  "lat": 10.5,
+  "lon": -66.9,
+  "tz": "America/Caracas",
+  "routes": 69
+ },
+ "managua": {
+  "cc": "NI",
+  "name": "Managua",
+  "lat": 12.13,
+  "lon": -86.27,
+  "tz": "America/Managua",
+  "routes": 124
+ },
+ "dakar": {
+  "cc": "SN",
+  "name": "Dakar",
+  "lat": 14.7,
+  "lon": -17.45,
+  "tz": "Africa/Dakar",
+  "routes": 29
+ },
+ "antananarivo": {
+  "cc": "MG",
+  "name": "Antananarivo",
+  "lat": -18.9,
+  "lon": 47.5,
+  "tz": "Indian/Antananarivo",
+  "routes": 148
+ },
+ "kinshasa": {
+  "cc": "CD",
+  "name": "Kinshasa",
+  "lat": -4.32,
+  "lon": 15.31,
+  "tz": "Africa/Kinshasa",
+  "routes": 8
+ },
+ "ouagadougou": {
+  "cc": "BF",
+  "name": "Ouagadougou",
+  "lat": 12.37,
+  "lon": -1.52,
+  "tz": "Africa/Ouagadougou",
+  "routes": 63
+ },
+ "praia": {
+  "cc": "CV",
+  "name": "Praia",
+  "lat": 14.93,
+  "lon": -23.51,
+  "tz": "Atlantic/Cape_Verde",
+  "routes": 228
+ },
+ "tashkent": {
+  "cc": "UZ",
+  "name": "Tashkent",
+  "lat": 41.3,
+  "lon": 69.27,
+  "tz": "Asia/Tashkent",
+  "routes": 140
+ },
+ "manama": {
+  "cc": "BH",
+  "name": "Manama",
+  "lat": 26.22,
+  "lon": 50.58,
+  "tz": "Asia/Bahrain",
+  "routes": 0
+ },
+ "muscat": {
+  "cc": "OM",
+  "name": "Muscat",
+  "lat": 23.59,
+  "lon": 58.4,
+  "tz": "Asia/Muscat",
+  "routes": 2
+ },
+ "andorra": {
+  "cc": "AD",
+  "name": "Andorra",
+  "lat": 42.5,
+  "lon": 1.52,
+  "tz": "Europe/Andorra",
+  "routes": 59
+ },
+ "vaduz": {
+  "cc": "LI",
+  "name": "Liechtenstein",
+  "lat": 47.14,
+  "lon": 9.52,
+  "tz": "Europe/Vaduz",
+  "routes": 312
+ },
+ "macau": {
+  "cc": "MO",
+  "name": "Macau",
+  "lat": 22.2,
+  "lon": 113.55,
+  "tz": "Asia/Macau",
+  "routes": 418
+ },
+ "bandar-seri-begawan": {
+  "cc": "BN",
+  "name": "Bandar Seri Begawan",
+  "lat": 4.9,
+  "lon": 114.93,
+  "tz": "Asia/Brunei",
+  "routes": 51
+ },
+ "barbados": {
+  "cc": "BB",
+  "name": "Barbados",
+  "lat": 13.1,
+  "lon": -59.6,
+  "tz": "America/Barbados",
+  "routes": 19
+ },
+ "paramaribo": {
+  "cc": "SR",
+  "name": "Paramaribo",
+  "lat": 5.85,
+  "lon": -55.2,
+  "tz": "America/Paramaribo",
+  "routes": 0
+ },
+ "san-juan": {
+  "cc": "PR",
+  "name": "San Juan",
+  "lat": 18.45,
+  "lon": -66.1,
+  "tz": "America/Puerto_Rico",
+  "routes": 63
+ },
+ "cayenne": {
+  "cc": "GF",
+  "name": "Cayenne",
+  "lat": 4.93,
+  "lon": -52.33,
+  "tz": "America/Cayenne",
+  "routes": 31
+ },
+ "noumea": {
+  "cc": "NC",
+  "name": "Nouméa",
+  "lat": -22.27,
+  "lon": 166.45,
+  "tz": "Pacific/Noumea",
+  "routes": 40
+ },
+ "charlotte-amalie": {
+  "cc": "VI",
+  "name": "Charlotte Amalie",
+  "lat": 18.34,
+  "lon": -64.93,
+  "tz": "America/St_Thomas",
+  "routes": 0
+ },
+ "maribor": {
+  "cc": "SI",
+  "name": "Maribor",
+  "lat": 46.55,
+  "lon": 15.65,
+  "tz": "Europe/Ljubljana",
+  "routes": 124
+ },
+ "sharjah": {
+  "cc": "AE",
+  "name": "Sharjah",
+  "lat": 25.35,
+  "lon": 55.4,
+  "tz": "Asia/Dubai",
+  "routes": 51
+ },
+ "tel-aviv": {
+  "cc": "IL",
+  "name": "Tel Aviv",
+  "lat": 32.08,
+  "lon": 34.78,
+  "tz": "Asia/Jerusalem",
+  "routes": 202
+ },
+ "hong-kong": {
+  "cc": "HK",
+  "name": "Hong Kong",
+  "lat": 22.3,
+  "lon": 114.17,
+  "tz": "Asia/Hong_Kong",
+  "routes": 1763
+ }
+}

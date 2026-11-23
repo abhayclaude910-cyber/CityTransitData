@@ -25,7 +25,40 @@ python tools/osm_to_gtfs.py <slug> "<City public transport (OpenStreetMap, appro
 Needs the internet (uses Overpass mirrors; overpass.openstreetmap.fr worked best). Takes about a minute. Output: `feeds/<slug>.zip` and `feeds/<slug>.json`. Rebuild every few months (calendar runs 180 days).
 
 ## Built so far
-| Slug | City | Routes | Stops |
-|---|---|---|---|
-| dubai | Dubai (and nearby Sharjah, Ajman) | 52 | 652 |
-| abu-dhabi | Abu Dhabi city | 7 | 107 |
+| Slug | City | Country | Routes | Stops |
+|---|---|---|---|---|
+| andorra | Andorra | AD | 47 | 253 |
+| abu-dhabi | Abu Dhabi | AE | 7 | 107 |
+| dubai | Dubai | AE | 52 | 652 |
+| buenos-aires | Buenos Aires | AR | 1114 | 13162 |
+| cordoba | Córdoba | AR | 289 | 5871 |
+| ouagadougou | Ouagadougou | BF | 59 | 666 |
+| bandar-seri-begawan | Bandar Seri Begawan | BN | 7 | 10 |
+| athens | Athens | GR | 451 | 8286 |
+| thessaloniki | Thessaloniki | GR | 185 | 1960 |
+| nairobi | Nairobi | KE | 17 | 118 |
+| vaduz | Liechtenstein | LI | 285 | 1042 |
+| antananarivo | Antananarivo | MG | 101 | 848 |
+| macau | Macau | MO | 368 | 1963 |
+| malta | Malta | MT | 317 | 2318 |
+| noumea | Nouméa | NC | 36 | 750 |
+| managua | Managua | NI | 110 | 1416 |
+| panama-city | Panama City | PA | 34 | 436 |
+| cebu | Cebu | PH | 89 | 593 |
+| manila | Manila | PH | 449 | 3064 |
+| san-juan | San Juan | PR | 9 | 94 |
+| moscow | Moscow | RU | 1870 | 8122 |
+| saint-petersburg | Saint Petersburg | RU | 1011 | 4494 |
+| gothenburg | Gothenburg | SE | 283 | 1902 |
+| malmo | Malmö | SE | 126 | 898 |
+| stockholm | Stockholm | SE | 1027 | 3714 |
+| maribor | Maribor | SI | 62 | 482 |
+| kaohsiung | Kaohsiung | TW | 363 | 3559 |
+| taichung | Taichung | TW | 716 | 5924 |
+| taipei | Taipei | TW | 1319 | 6744 |
+| tashkent | Tashkent | UZ | 125 | 1866 |
+| caracas | Caracas | VE | 63 | 620 |
+| hanoi | Hanoi | VN | 344 | 2749 |
+| ho-chi-minh | Ho Chi Minh City | VN | 272 | 4263 |
+
+Cities with fewer than 20 usable routes (Bandar Seri Begawan, San Juan, Nairobi) are built but not added to the app. Doha, Riyadh, Jeddah, Muscat, Manama, Paramaribo and Charlotte Amalie had too little OSM data to build. Asuncion and Praia had no usable routes.

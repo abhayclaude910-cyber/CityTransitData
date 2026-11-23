@@ -1,0 +1,17 @@
+{
+ "slug": "san-juan",
+ "agency": "San Juan public transport (OpenStreetMap, approximate times)",
+ "tz": "America/Puerto_Rico",
+ "routes": 9,
+ "stops": 94,
+ "bb": [
+  18.390735,
+  18.465913,
+  -66.1539,
+  -65.992539
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "PR",
+ "city": "San Juan"
+}

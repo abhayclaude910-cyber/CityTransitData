@@ -1,0 +1,17 @@
+{
+ "slug": "malta",
+ "agency": "Malta public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Malta",
+ "routes": 317,
+ "stops": 2318,
+ "bb": [
+  35.807264,
+  36.076501,
+  14.190335,
+  14.573121
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "MT",
+ "city": "Malta"
+}

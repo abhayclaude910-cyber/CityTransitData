@@ -1,0 +1,17 @@
+{
+ "slug": "manila",
+ "agency": "Manila public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Manila",
+ "routes": 449,
+ "stops": 3064,
+ "bb": [
+  14.450395,
+  14.749468,
+  120.894931,
+  121.1482
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "PH",
+ "city": "Manila"
+}

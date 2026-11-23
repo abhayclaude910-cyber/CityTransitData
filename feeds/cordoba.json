@@ -1,0 +1,17 @@
+{
+ "slug": "cordoba",
+ "agency": "Córdoba public transport (OpenStreetMap, approximate times)",
+ "tz": "America/Argentina/Cordoba",
+ "routes": 289,
+ "stops": 5871,
+ "bb": [
+  -31.548207,
+  -31.250467,
+  -64.349947,
+  -64.050744
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "AR",
+ "city": "Córdoba"
+}

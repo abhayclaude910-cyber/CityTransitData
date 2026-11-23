@@ -1,0 +1,17 @@
+{
+ "slug": "andorra",
+ "agency": "Andorra public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Andorra",
+ "routes": 47,
+ "stops": 253,
+ "bb": [
+  42.350598,
+  42.583844,
+  1.393915,
+  1.668772
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "AD",
+ "city": "Andorra"
+}

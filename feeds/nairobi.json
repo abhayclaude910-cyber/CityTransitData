@@ -1,0 +1,17 @@
+{
+ "slug": "nairobi",
+ "agency": "Nairobi public transport (OpenStreetMap, approximate times)",
+ "tz": "Africa/Nairobi",
+ "routes": 17,
+ "stops": 118,
+ "bb": [
+  -1.413537,
+  -1.150303,
+  36.681412,
+  36.960527
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "KE",
+ "city": "Nairobi"
+}

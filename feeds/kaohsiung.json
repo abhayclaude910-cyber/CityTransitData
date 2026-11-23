@@ -1,0 +1,17 @@
+{
+ "slug": "kaohsiung",
+ "agency": "Kaohsiung public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Taipei",
+ "routes": 363,
+ "stops": 3559,
+ "bb": [
+  22.480828,
+  22.779335,
+  120.236834,
+  120.449755
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "TW",
+ "city": "Kaohsiung"
+}

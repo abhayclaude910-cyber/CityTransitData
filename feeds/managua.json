@@ -1,0 +1,17 @@
+{
+ "slug": "managua",
+ "agency": "Managua public transport (OpenStreetMap, approximate times)",
+ "tz": "America/Managua",
+ "routes": 110,
+ "stops": 1416,
+ "bb": [
+  11.999517,
+  12.192837,
+  -86.371832,
+  -86.122019
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "NI",
+ "city": "Managua"
+}

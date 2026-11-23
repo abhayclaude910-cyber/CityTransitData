@@ -1,0 +1,17 @@
+{
+ "slug": "maribor",
+ "agency": "Maribor public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Ljubljana",
+ "routes": 62,
+ "stops": 482,
+ "bb": [
+  46.507576,
+  46.650548,
+  15.503833,
+  15.747264
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "SI",
+ "city": "Maribor"
+}

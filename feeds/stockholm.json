@@ -1,0 +1,17 @@
+{
+ "slug": "stockholm",
+ "agency": "Stockholm public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Stockholm",
+ "routes": 1027,
+ "stops": 3714,
+ "bb": [
+  59.180012,
+  59.479579,
+  17.920016,
+  18.219589
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "SE",
+ "city": "Stockholm"
+}

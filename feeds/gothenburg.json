@@ -1,0 +1,17 @@
+{
+ "slug": "gothenburg",
+ "agency": "Gothenburg public transport (OpenStreetMap, approximate times)",
+ "tz": "Europe/Stockholm",
+ "routes": 283,
+ "stops": 1902,
+ "bb": [
+  57.561923,
+  57.858063,
+  11.820662,
+  12.118972
+ ],
+ "built": "20261123",
+ "valid_until": "20270522",
+ "cc": "SE",
+ "city": "Gothenburg"
+}

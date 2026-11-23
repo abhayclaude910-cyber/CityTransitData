@@ -1,0 +1,100 @@
+relations 1148 nodes 3785
+routes 1027 stops 3714
+{'slug': 'stockholm', 'agency': 'Stockholm public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Stockholm', 'routes': 1027, 'stops': 3714, 'bb': [59.180012, 59.479579, 17.920016, 18.219589], 'built': '20261123', 'valid_until': '20270522'}
+relations 320 nodes 1916
+routes 283 stops 1902
+{'slug': 'gothenburg', 'agency': 'Gothenburg public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Stockholm', 'routes': 283, 'stops': 1902, 'bb': [57.561923, 57.858063, 11.820662, 12.118972], 'built': '20261123', 'valid_until': '20270522'}
+relations 158 nodes 1030
+routes 126 stops 898
+{'slug': 'malmo', 'agency': 'Malmö public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Stockholm', 'routes': 126, 'stops': 898, 'bb': [55.45149, 55.749324, 12.900564, 13.149538], 'built': '20261123', 'valid_until': '20270522'}
+relations 501 nodes 11883
+routes 451 stops 8286
+{'slug': 'athens', 'agency': 'Athens public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Athens', 'routes': 451, 'stops': 8286, 'bb': [37.830021, 38.129807, 23.580116, 23.879961], 'built': '20261123', 'valid_until': '20270522'}
+relations 214 nodes 2133
+routes 185 stops 1960
+{'slug': 'thessaloniki', 'agency': 'Thessaloniki public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Athens', 'routes': 185, 'stops': 1960, 'bb': [40.490049, 40.789763, 22.79171, 23.089873], 'built': '20261123', 'valid_until': '20270522'}
+relations 317 nodes 2961
+routes 317 stops 2318
+{'slug': 'malta', 'agency': 'Malta public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Malta', 'routes': 317, 'stops': 2318, 'bb': [35.807264, 36.076501, 14.190335, 14.573121], 'built': '20261123', 'valid_until': '20270522'}
+relations 374 nodes 2872
+routes 344 stops 2749
+{'slug': 'hanoi', 'agency': 'Hanoi public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Ho_Chi_Minh', 'routes': 344, 'stops': 2749, 'bb': [20.880285, 21.179775, 105.700095, 105.999452], 'built': '20261123', 'valid_until': '20270522'}
+relations 289 nodes 4280
+routes 272 stops 4263
+{'slug': 'ho-chi-minh', 'agency': 'Ho Chi Minh City public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Ho_Chi_Minh', 'routes': 272, 'stops': 4263, 'bb': [10.631, 10.929744, 106.550146, 106.849837], 'built': '20261123', 'valid_until': '20270522'}
+relations 767 nodes 3132
+routes 449 stops 3064
+{'slug': 'manila', 'agency': 'Manila public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Manila', 'routes': 449, 'stops': 3064, 'bb': [14.450395, 14.749468, 120.894931, 121.1482], 'built': '20261123', 'valid_until': '20270522'}
+relations 131 nodes 601
+routes 89 stops 593
+{'slug': 'cebu', 'agency': 'Cebu public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Manila', 'routes': 89, 'stops': 593, 'bb': [10.208691, 10.401396, 123.758741, 123.999745], 'built': '20261123', 'valid_until': '20270522'}
+relations 1439 nodes 6846
+routes 1319 stops 6744
+{'slug': 'taipei', 'agency': 'Taipei public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Taipei', 'routes': 1319, 'stops': 6744, 'bb': [24.896475, 25.189986, 121.400136, 121.699935], 'built': '20261123', 'valid_until': '20270522'}
+relations 569 nodes 3578
+routes 363 stops 3559
+{'slug': 'kaohsiung', 'agency': 'Kaohsiung public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Taipei', 'routes': 363, 'stops': 3559, 'bb': [22.480828, 22.779335, 120.236834, 120.449755], 'built': '20261123', 'valid_until': '20270522'}
+relations 919 nodes 5931
+routes 716 stops 5924
+{'slug': 'taichung', 'agency': 'Taichung public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Taipei', 'routes': 716, 'stops': 5924, 'bb': [24.000086, 24.299991, 120.520189, 120.819995], 'built': '20261123', 'valid_until': '20270522'}
+relations 1175 nodes 24270
+routes 1114 stops 13162
+{'slug': 'buenos-aires', 'agency': 'Buenos Aires public transport (OpenStreetMap, approximate times)', 'tz': 'America/Argentina/Buenos_Aires', 'routes': 1114, 'stops': 13162, 'bb': [-34.749926, -34.450006, -58.599991, -58.300071], 'built': '20261123', 'valid_until': '20270522'}
+relations 307 nodes 5876
+routes 289 stops 5871
+{'slug': 'cordoba', 'agency': 'Córdoba public transport (OpenStreetMap, approximate times)', 'tz': 'America/Argentina/Cordoba', 'routes': 289, 'stops': 5871, 'bb': [-31.548207, -31.250467, -64.349947, -64.050744], 'built': '20261123', 'valid_until': '20270522'}
+relations 2514 nodes 14972
+routes 1870 stops 8122
+{'slug': 'moscow', 'agency': 'Moscow public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Moscow', 'routes': 1870, 'stops': 8122, 'bb': [55.600038, 55.899963, 37.450009, 37.749999], 'built': '20261123', 'valid_until': '20270522'}
+relations 1339 nodes 8542
+routes 1011 stops 4494
+{'slug': 'saint-petersburg', 'agency': 'Saint Petersburg public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Moscow', 'routes': 1011, 'stops': 4494, 'bb': [59.780509, 60.079883, 30.150271, 30.449928], 'built': '20261123', 'valid_until': '20270522'}
+relations 282 nodes 121
+routes 17 stops 118
+{'slug': 'nairobi', 'agency': 'Nairobi public transport (OpenStreetMap, approximate times)', 'tz': 'Africa/Nairobi', 'routes': 17, 'stops': 118, 'bb': [-1.413537, -1.150303, 36.681412, 36.960527], 'built': '20261123', 'valid_until': '20270522'}
+relations 70 nodes 470
+routes 34 stops 436
+{'slug': 'panama-city', 'agency': 'Panama City public transport (OpenStreetMap, approximate times)', 'tz': 'America/Panama', 'routes': 34, 'stops': 436, 'bb': [8.910734, 9.103734, -79.625392, -79.370044], 'built': '20261123', 'valid_until': '20270522'}
+relations 127 nodes 136
+routes 0 stops 0
+FAILED asuncion no routes found in the area
+relations 69 nodes 1164
+routes 63 stops 620
+{'slug': 'caracas', 'agency': 'Caracas public transport (OpenStreetMap, approximate times)', 'tz': 'America/Caracas', 'routes': 63, 'stops': 620, 'bb': [10.352328, 10.600189, -67.039357, -66.788218], 'built': '20261123', 'valid_until': '20270522'}
+relations 124 nodes 3183
+routes 110 stops 1416
+{'slug': 'managua', 'agency': 'Managua public transport (OpenStreetMap, approximate times)', 'tz': 'America/Managua', 'routes': 110, 'stops': 1416, 'bb': [11.999517, 12.192837, -86.371832, -86.122019], 'built': '20261123', 'valid_until': '20270522'}
+relations 148 nodes 1278
+routes 101 stops 848
+{'slug': 'antananarivo', 'agency': 'Antananarivo public transport (OpenStreetMap, approximate times)', 'tz': 'Indian/Antananarivo', 'routes': 101, 'stops': 848, 'bb': [-18.988081, -18.757041, 47.447234, 47.620128], 'built': '20261123', 'valid_until': '20270522'}
+relations 63 nodes 1322
+routes 59 stops 666
+{'slug': 'ouagadougou', 'agency': 'Ouagadougou public transport (OpenStreetMap, approximate times)', 'tz': 'Africa/Ouagadougou', 'routes': 59, 'stops': 666, 'bb': [12.227659, 12.517247, -1.638559, -1.375061], 'built': '20261123', 'valid_until': '20270522'}
+relations 228 nodes 140
+routes 0 stops 0
+FAILED praia no routes found in the area
+relations 140 nodes 2468
+routes 125 stops 1866
+{'slug': 'tashkent', 'agency': 'Tashkent public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Tashkent', 'routes': 125, 'stops': 1866, 'bb': [41.1861, 41.43093, 69.126087, 69.415891], 'built': '20261123', 'valid_until': '20270522'}
+relations 59 nodes 504
+routes 47 stops 253
+{'slug': 'andorra', 'agency': 'Andorra public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Andorra', 'routes': 47, 'stops': 253, 'bb': [42.350598, 42.583844, 1.393915, 1.668772], 'built': '20261123', 'valid_until': '20270522'}
+relations 312 nodes 2167
+routes 285 stops 1042
+{'slug': 'vaduz', 'agency': 'Liechtenstein public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Vaduz', 'routes': 285, 'stops': 1042, 'bb': [46.991915, 47.289976, 9.371133, 9.669432], 'built': '20261123', 'valid_until': '20270522'}
+relations 418 nodes 2028
+routes 368 stops 1963
+{'slug': 'macau', 'agency': 'Macau public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Macau', 'routes': 368, 'stops': 1963, 'bb': [22.050722, 22.349984, 113.400051, 113.59926], 'built': '20261123', 'valid_until': '20270522'}
+relations 51 nodes 14
+routes 7 stops 10
+{'slug': 'bandar-seri-begawan', 'agency': 'Bandar Seri Begawan public transport (OpenStreetMap, approximate times)', 'tz': 'Asia/Brunei', 'routes': 7, 'stops': 10, 'bb': [4.887839, 5.034253, 114.923198, 115.078322], 'built': '20261123', 'valid_until': '20270522'}
+relations 63 nodes 117
+routes 9 stops 94
+{'slug': 'san-juan', 'agency': 'San Juan public transport (OpenStreetMap, approximate times)', 'tz': 'America/Puerto_Rico', 'routes': 9, 'stops': 94, 'bb': [18.390735, 18.465913, -66.1539, -65.992539], 'built': '20261123', 'valid_until': '20270522'}
+relations 40 nodes 885
+routes 36 stops 750
+{'slug': 'noumea', 'agency': 'Nouméa public transport (OpenStreetMap, approximate times)', 'tz': 'Pacific/Noumea', 'routes': 36, 'stops': 750, 'bb': [-22.307668, -22.120094, 166.302665, 166.599604], 'built': '20261123', 'valid_until': '20270522'}
+relations 124 nodes 507
+routes 62 stops 482
+{'slug': 'maribor', 'agency': 'Maribor public transport (OpenStreetMap, approximate times)', 'tz': 'Europe/Ljubljana', 'routes': 62, 'stops': 482, 'bb': [46.507576, 46.650548, 15.503833, 15.747264], 'built': '20261123', 'valid_until': '20270522'}
+BUILD DONE 31 built 2 failed
