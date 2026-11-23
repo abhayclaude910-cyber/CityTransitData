@@ -1,0 +1,15 @@
+{
+ "slug": "abu-dhabi",
+ "agency": "Abu Dhabi public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Dubai",
+ "routes": 7,
+ "stops": 107,
+ "bb": [
+  24.251463,
+  24.511315,
+  54.322442,
+  54.646189
+ ],
+ "built": "20261123",
+ "valid_until": "20270522"
+}

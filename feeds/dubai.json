@@ -1,0 +1,15 @@
+{
+ "slug": "dubai",
+ "agency": "Dubai public transport (OpenStreetMap, approximate times)",
+ "tz": "Asia/Dubai",
+ "routes": 52,
+ "stops": 652,
+ "bb": [
+  24.914393,
+  25.411556,
+  54.971145,
+  55.46067
+ ],
+ "built": "20261123",
+ "valid_until": "20270522"
+}
